@@ -59,9 +59,29 @@ def parse_legend_terms(raw_text: str) -> List[str]:
         token = part.strip(" :;-").strip()
         if not token:
             continue
-        if token.upper() in {"LEGENDS", "LEGEND", "SWITCH", "BOTTOM OF SLAB", "BOTTOM OF BEAM", "BOB", "BOS", "BOMH", "BOEX", "BOC"}:
+            # Heuristics: discard known non-legend text
+        STOPWORDS = {
+            "LEGENDS", "LEGEND", "SWITCH",
+            "GROUND FLOOR", "FIRST FLOOR", "TYPICAL FLOOR",
+            "DLF-2", "DELHI", "GURGAON", "CHECKED BY", "DRAWN BY"
+        }
+        if token.upper() in STOPWORDS:
             continue
-        if len(token) <= 40 and any(c.isalpha() for c in token):
+
+        # Ignore phone numbers or numbers with +
+        if re.search(r"\+?\d{3,}", token):
+            continue
+
+        # Prefer labels in ALL CAPS (common in legends)
+        if token.upper() != token:
+            continue
+
+        # Require at least two words (e.g., "PENDENT LIGHT", not "DLF-2")
+        if len(token.split()) < 2:
+            continue
+
+        # Short, meaningful phrases only
+        if 3 <= len(token) <= 40 and any(c.isalpha() for c in token):
             candidates.append(token)
 
     # Normalize capitalization and dedupe while preserving order
