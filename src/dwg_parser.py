@@ -1,81 +1,53 @@
+from __future__ import annotations
 import ezdxf
-import json
 from pathlib import Path
-from src.parsers.legend_extractor import parse_legend_terms
+import json
 
-
-def collect_all_text(doc) -> list[str]:
-    all_texts = []
-
-    # Modelspace
-    all_texts.extend([e.dxf.text for e in doc.modelspace().query("TEXT")])
-    all_texts.extend([e.text for e in doc.modelspace().query("MTEXT")])
-
-    # Blocks (including anonymous ones like *U10)
-    for block in doc.blocks:
-        for e in block.query("TEXT"):
-            all_texts.append(e.dxf.text)
-        for e in block.query("MTEXT"):
-            all_texts.append(e.text)
-        for e in block.query("ATTRIB"):
-            all_texts.append(e.dxf.text)
-        for e in block.query("ATTDEF"):
-            all_texts.append(e.dxf.text)
-
-    # Normalize
-    return [t.strip() for t in all_texts if t and t.strip()]
-
-def parse_dwg_with_legend(file_path: str, output_dir: str = "data/outputs") -> None:
+def parse_dwg_with_legend(dwg_path: str):
     """
-    Parse DWG/DXF file:
-    - Count block inserts
-    - Extract legend terms from MTEXT
-    - Write both to a text file (human-readable)
-    - Save block counts JSON for linker
+    Parse DWG (via DXF conversion) for:
+    - block counts
+    - raw text entities (to capture legend items)
     """
-    doc = ezdxf.readfile(file_path)
+    doc = ezdxf.readfile(dwg_path)
     msp = doc.modelspace()
 
-    # --- Step 1: Count block inserts ---
-    block_counts = {}
-    for entity in msp.query("INSERT"):
-        block_name = entity.dxf.name
-        block_counts[block_name] = block_counts.get(block_name, 0) + 1
+    # Collect block references
+    block_counts: dict[str, int] = {}
+    for insert in msp.query("INSERT"):
+        name = insert.dxf.name
+        block_counts[name] = block_counts.get(name, 0) + 1
 
-    # --- Step 2: Extract legend terms ---
+    # Collect text entities (MText + Text)
+    texts: list[str] = []
+    for entity in msp.query("MTEXT TEXT"):
+        if entity.dxftype() == "MTEXT":
+            texts.append(entity.text)
+        elif entity.dxftype() == "TEXT":
+            texts.append(entity.dxf.text)
 
-    all_texts = collect_all_text(doc)
-    raw_text = "\n".join(all_texts)
+    # --- Write outputs ---
+    out_dir = Path("data/outputs")
+    out_dir.mkdir(parents=True, exist_ok=True)
 
-    legend_items = parse_legend_terms(raw_text)
-    print("---- RAW MTEXT DUMP ----")
-    print(raw_text[:1000])  # print first 1000 chars
-    print("---- PARSED LEGEND ITEMS ----")
-    print(legend_items)
-
-    # --- Step 3: Write results ---
-    output_path = Path(output_dir)
-    output_path.mkdir(parents=True, exist_ok=True)
-
-    # human-readable text file
-    with open(output_path / "dwg_with_legend.txt", "w", encoding="utf-8") as f:
-        f.write(">>> BLOCK COUNTS (raw)\n")
-        for block, count in block_counts.items():
-            f.write(f"{block}: {count}\n")
-
-        f.write("\n>>> LEGEND (items)\n")
-        for item in legend_items:
-            f.write(f"{item}\n")
-
-    # JSON for linker
-    (output_path / "block_counts.json").write_text(
-        json.dumps(block_counts, indent=2),
+    # 1. Block counts JSON
+    block_out = out_dir / "block_counts.json"
+    block_out.write_text(
+        json.dumps(block_counts, indent=2, ensure_ascii=False),
         encoding="utf-8"
     )
+    print(f"✅ Wrote block counts to {block_out}")
 
-    print(f"✅ Outputs written to {output_path.resolve()}")
+    # 2. Raw MTEXT dump for legend parsing
+    text_out = out_dir / "dwg_text_dump.txt"
+    text_out.write_text("\n".join(texts), encoding="utf-8")
+    print(f"✅ Wrote raw text dump to {text_out}")
 
 if __name__ == "__main__":
-    # use forward slashes for safety
-    parse_dwg_with_legend("data\\dwg_samples\\sample.dxf")
+    # Example run on sample file
+    sample = Path("data\\dwg_samples\\sample.dxf")
+    if sample.exists():
+        parse_dwg_with_legend(str(sample))
+    else:
+        print("⚠️ Sample DXF not found. Place a file at data/dwg_samples/sample.dxf")
 
