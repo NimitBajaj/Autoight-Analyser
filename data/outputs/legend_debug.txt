@@ -1,0 +1,1663 @@
+>>> TEXT objects
+
+>>> MTEXT objects
+PENDENT LIGHT
+PoP Bo AC PiPe LvL
+MAGNETIC TRACK LIGHT
+PELMET
+PELMET
+COVE LIGHT
+PoP Bo PiPe LvL
+PELMET
+-1"PoP BoC LvL
++5"PoP BoS LvL
+PoP Bo AC PiPe LvL
+2"TAPER\PBOB TO\P-1"BOC
++4"PoP BoS LvL
+PENDENT LIGHT
++3"PoP BoS LvL
+PENDENT LIGHT
+PoP Bo Ex.\PPiPe LvL
+PENDENT LIGHT
+PoP Bo Ex.\PPiPe LvL
+CHIMNEY PIPE
++3"PoP BoS LvL
+MAGNETIC TRACK LIGHT
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PENDENT LIGHT
+PENDENT LIGHT
+PoP Bo AC PiPe LvL
+PoP Bo AC PiPe LvL
+PELMET
+PELMET
++4"PoP BoS LvL
+{\fMistral|b0|i0|c0|p66;NOTE :}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REFLECTED IN DRAWINGS .\PMIGHT BE OCCUR DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+F.F.L TO B.O.S HEIGHT TO BE -10'-10"
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;INDIA}
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+DRAWN BY     -
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;1}
+{\fMistral|b0|i0|c0|p66;FC}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\fMistral|b0|i0|c0|p66;TYPICAL FLOOR- FALSE CEILING \fPerpetua Titling MT|b0|i0|c0|p18; }
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;29-07-2024}
+K-3/67A DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+ L-1,GROUND FLOOR SOUTH EX-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½ASROINDIA.ALL RIGHT'S RESERVED}
+{\C131;BOTTOM OF SLAB }
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+LEGENDS:-
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+{\C131;01.}
+{\C131;BOTTOM OF BEAM }
+{\C131;BOB}
+{\C131;glazer light}
+{\C131;08.}
+{\fMistral|b0|i0|c0|p66;KEY PLAN :}
+{\fArial|b0|i0|c0|p34;\H1.7143x;     FOR \PAPPROVAL \P     ONLY}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\LREFERENCE IMAGE OF BEDROOM-02}
+{\LREFERENCE IMAGE OF BEDROOM-03}
+{\LREFERENCE IMAGE OF\P LIVING AND DINING}
+MAGNETIC TRACK LIGHT
+CURVE AS/DESIGN DETAIL
+MAGNETIC TRACK LIGHT
++3"PoP BoS LvL
+{\LREFERENCE IMAGE OF BEDROOM-01}
++5"PoP BoS LvL
+{\A1;-{\A1;\H0.70000x;\S1/2;}"PoP BoC LvL}
+WooDen Ceiling \PBo MacHine \PDuct LvL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+1" BLACK MIRROR STRIP
+PoP Bo KitChen Ex.\PPiPe LvL
+CURVE AS/DESIGN DETAIL
++3"PoP BoS LvL
+L-GROOVE \PON EDGES
+L-GROOVE \PON EDGES
+{\FArial;\W1.04762; }{\A1;9" }{\FArial;\W1.04762; }{\A1;SUNK}
+{\A1;B8(9"X15")}
+{\A1;B10(9"X15")}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;KITCHEN\P16'-4" x 8'-9"}
+CHIMNEY PIPE
+PoP Bo KitChen Ex.\PPiPe LvL
+{\A1;B7(9"X15")}
+{\A1;B9(12"X15")}
+{\A1;B11(12"X15")}
+{\A1;B12(12"X15")}
+{\A1;B18(4.5"X15")}
+{\A1;B17(12"X15")}
+{\A1;B21(9"X15")}
+{\A1;B20(12"X15")}
+{\A1;B21B(12"X15")}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;5'-0" WIDE PASSAGE }
+{\A1;MANDIR}
+{\A1;8 SEATER}\P{\FCandara;\W1.07143; }{\A1;DINING }
+{\A1;TV UNIT}
+{\A1;TV UNIT}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;FORMAL DRAWING & DINNING\P14'-2\H1x;" x 23'-6"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;FAMILY LOUNGE\P18'-6\H0.7x;\S1/2;\H1.4286x;" x 9'-2\H0.7x;\S1/2;\H1.4286x;"}
+SUPPLY/RETURN LINEAR AIR GRILL 4" WIDE
+SUPPLY/RETURN LINEAR AIR GRILL 4" WIDE
++3"PoP BoS LvL
+MAGNETIC TRACK LIGHT
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PELMET
+MAGNETIC TRACK LIGHT
+CURVE AS/DESIGN DETAIL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+CURVE AS/DESIGN DETAIL
++3"PoP BoS LvL
+L-GROOVE \PON EDGES
+L-GROOVE \PON EDGES
+{\A1;B12(12"X15")}
+{\A1;B13(9"X15")}
+{\A1;B16(9"X15")}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;BEDROOM -03\P20'-8\H0.7x;\S1/2;\H1.42857x;" x 12'-10"}
+{\FCandara;\W1.71429; }{\A1;WARDROBE}\P{\A1;7'-0" X 2'-0"}
+{\A1;TV UNIT}
+PENDENT LIGHT
+PENDENT LIGHT
+PoP Bo AC PiPe LvL
+PoP Bo AC PiPe LvL
+PELMET
++4"PoP BoS LvL
++5"PoP BoS LvL
+{\A1;-{\A1;\H0.70000x;\S1/2;}"PoP BoC LvL}
+WooDen Ceiling \PBo MacHine \PDuct LvL
+1" BLACK MIRROR STRIP
+{\A1;B5(12"X15")}
+{\A1;B2(12"X15")}
+{\A1;B21C(9"X15")}
+{\A1;9" SUNK}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;BEDROOM -02\P13'-2" x 16'-11"}
+{\A1;TV UNIT}
+PELMET
+-1"PoP BoC LvL
++6"PoP BoS LvL
+PoP Bo AC PiPe LvL
+2"TAPER\PBOB TO\P-1"BOC
++4"PoP BoS LvL
+PENDENT LIGHT
++3"PoP BoS LvL
+{\A1;9" SUNK}
+{\A1;B4(9"X15")}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;DRESS &TOILET -01\P14'-5\H0.7x;\S1/2;\H1.42857x;" x 5'-10"}
+{\FCalibri;\W2.64286; }{\A1;SHOWER }\P{\FCalibri;\W2.59524; }{\A1;CUBICLE}\P{\A1;3'-3" X 5'-6"}
+{\FCalibri;\W0.47381; }{\A1; WARDROBE}\P{\A1;5'-1{\A1;\H0.70000x;\S1/2;}}{\A1;\H1.00000x;"x2'-0"}
+{\A1;SITTING LEDGE}
+COVE LIGHT
+PoP Bo PiPe LvL
+{\A1;9" SUNK}
+{\A1;B7A(9"X15")}
+{\FCalibri;\W0.19048; }{\A1; WARDROBE}\P{\A1;8'-6"x2'-0"}
+{\FCalibri;\W4.62857; }{\A1;WC }\P{\FCalibri;\W2.58095; }{\A1;CUBICLE}\P{\A1;3'-2{\A1;\H0.70000x;\S1/2;}"X 3'-7{\A1;\H0.50000x;\S1/2;}"}
+{\FCalibri;\W2.82143; }{\A1;SHOWER }\P{\FCalibri;\W2.77381; }{\A1;CUBICLE}\P{\A1;3'-1{\A1;\H0.50000x;\S1/2;}" X3'-11" }
+{\FCalibri;\W1.14286; }{\A1;GLASS }\P{\A1;PARTITION}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;DRESSSER & \PTOILET-02\P9'-6" x 8'-6\H0.7x;\S1/2;\H1.4286x;"}
+PENDENT LIGHT
+PoP Bo Ex.\PPiPe LvL
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;PDR\P4'-6" x 6'-0"}
+PENDENT LIGHT
+{\A1;9" SUNK}
+{\A1;B11(12"X15")}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;TOILET -03\P8'-1" x 6'-0"}
+{\FCalibri;\W2.34524; }{\A1;SHOWER}\P{\FCalibri;\W2.29762; }{\A1;CUBICLE}\P{\A1;3'-0"X 5'-3{\A1;\H0.50000x;\S1/2;}"}
+{\A1;SITTING LEDGE}
+PoP Bo Ex.\PPiPe LvL
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W8.40363;  }TYPICAL FLOOR,  TOILET-01\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;31-07-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\A1;TV UNIT}
+PELMET
+PELMET
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT IS GIVEN .
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W7.71316;  }TYPICAL FLOOR,  BEDROOM-02\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;30-07-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\A1;BEDROOM-02}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\A1;TV UNIT}
+PELMET
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
++5"PoP BoS LvL
++5"PoP BoS LvL
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT IS GIVEN .
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W8.33220;  }TYPICAL FLOOR,  TOILET-02\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;31-07-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W7.71316;  }TYPICAL FLOOR,  BEDROOM-03\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;31-07-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\FCandara;\W1.71429; }{\A1;WARDROBE}\P{\A1;7'-0" X 2'-0"}
+{\A1;TV UNIT}
+PELMET
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+DUCT
+PoP Bo AC PiPe LvL
+1" BlacK MirroR StriP
++5"PoP BoS LvL
+{\A1;-{\A1;\H0.70000x;\S1/2;}"PoP BoC LvL}
+WooDen Ceiling Bo MacHine \PDuct LvL
++4"PoP BoS LvL
+{\LSECTION-AA'}
+{\LWOODEN CEILING}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT IS GIVEN .
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W9.01078;  }TYPICAL FLOOR, KITCHEN\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;31-07-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\A1;BEDROOM-03}
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W8.33220;  }TYPICAL FLOOR,  TOILET-03\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;31-07-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\A1;KITCHEN}
+{\A1;MANDIR}
+{\A1;8 SEATER}\P{\FCandara;\W1.07143; }{\A1;DINING }
+{\A1;TV UNIT}
+{\A1;TV UNIT}
+PELMET
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+DUCT
+Wooden Bo Duct MacHine LvL
+PoP BoB LvL
+L-Groove on EdgeS
++3"PoP BoS LvL
+{\LSECTION-B'}
+Ref. Detail-a'
+{\LREF. DETAIL-A'}
+{\f@Arial Unicode MS|b0|i0|c0|p34;B}
+{\f@Arial Unicode MS|b0|i0|c0|p34;B}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT/CHANDELIER\PIS GIVEN .
+{\FCalibri;\W2.64286; }{\A1;SHOWER }\P{\FCalibri;\W2.59524; }{\A1;CUBICLE}\P{\A1;3'-3" X 5'-6"}
+{\FCalibri;\W0.47381; }{\A1; WARDROBE}\P{\A1;5'-1{\A1;\H0.70000x;\S1/2;}}{\A1;\H1.00000x;"x2'-0"}
+{\A1;SITTING LEDGE}
+{\FCalibri;\W0.19048; }{\A1; WARDROBE}\P{\A1;8'-6"x2'-0"}
+{\FCalibri;\W4.62857; }{\A1;WC }\P{\FCalibri;\W2.58095; }{\A1;CUBICLE}\P{\A1;3'-2{\A1;\H0.70000x;\S1/2;}"X 3'-7{\A1;\H0.50000x;\S1/2;}"}
+{\FCalibri;\W2.82143; }{\A1;SHOWER }\P{\FCalibri;\W2.77381; }{\A1;CUBICLE}\P{\A1;3'-1{\A1;\H0.50000x;\S1/2;}" X3'-11" }
+{\FCalibri;\W1.14286; }{\A1;GLASS }\P{\A1;PARTITION}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT IS GIVEN .
+{\A1;TOILET-01}
+{\A1;TOILET-02}
+{\FCalibri;\W2.34524; }{\A1;SHOWER}\P{\FCalibri;\W2.29762; }{\A1;CUBICLE}\P{\A1;3'-0"X 5'-3{\A1;\H0.50000x;\S1/2;}"}
+{\A1;SITTING LEDGE}
+{\A1;TOILET-03}
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W9.53459;  }TYPICAL FLOOR,  PDR\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;31-07-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\A1;PDR}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT IS GIVEN .
+{\LWOODEN CEILING}
+Ref. Detail-a'
+{\LREF. DETAIL-A'}
+{\A1;B7(9"X15")}
+{\A1;B9(12"X15")}
+{\A1;B11(12"X15")}
+{\A1;B12(12"X15")}
+{\A1;B18(4.5"X15")}
+{\A1;B17(12"X15")}
+{\A1;B21(9"X15")}
+{\A1;B20(12"X15")}
+{\A1;B21B(12"X15")}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;5'-0" WIDE PASSAGE }
+{\A1;MANDIR}
+{\A1;8 SEATER}\P{\FCandara;\W1.07143; }{\A1;DINING }
+{\A1;TV UNIT}
+{\A1;TV UNIT}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;FORMAL DRAWING & DINNING\P14'-2\H1x;" x 23'-6"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;FAMILY LOUNGE\P18'-6\H0.7x;\S1/2;\H1.4286x;" x 9'-2\H0.7x;\S1/2;\H1.4286x;"}
+SUPPLY/RETURN LINEAR AIR GRILL 4" WIDE
+SUPPLY/RETURN LINEAR AIR GRILL 4" WIDE
++3"PoP BoS LvL
+MAGNETIC TRACK LIGHT
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PELMET
+MAGNETIC TRACK LIGHT
+CURVE AS/DESIGN DETAIL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+POP BOB LVL
+CURVE AS/DESIGN DETAIL
++3"PoP BoS LvL
+L-GROOVE \PON EDGES
+L-GROOVE \PON EDGES
+{\A1;MANDIR}
+{\A1;8 SEATER}\P{\FCandara;\W1.07143; }{\A1;DINING }
+{\A1;TV UNIT}
+{\A1;TV UNIT}
+PELMET
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+DUCT
+Wooden Bo Duct MacHine LvL
+PoP BoB LvL
+L-Groove on EdgeS
++3"PoP BoS LvL
+{\LSECTION-B'}
+PoP BoB LvL
+L-Groove on EdgeS
++3"PoP BoS LvL
+MAGNETIC TRACK LIGHT
+L-Groove on EdgeS
++3"PoP BoS LvL
+PoP BoB LvL
+{\LSECTION-A'}
+12mm Water-proof\Pply screwed \Pfor pelmet
+PARTITION 
+Ref. Detail-a'
+{\LREF. DETAIL-A'}
+{\f@Arial Unicode MS|b0|i0|c0|p34;B}
+{\f@Arial Unicode MS|b0|i0|c0|p34;B}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT/CHANDELIER\PIS GIVEN .
+{\f@Arial Unicode MS|b0|i0|c0|p34;C}
+{\f@Arial Unicode MS|b0|i0|c0|p34;C}
+{\LSECTION-C'}
+AC MACHINE
+AC MACHINE
+WOODEN CEILING BOMACHINE LVL
+POP BOB LVL
+{\A1;TV UNIT}
+PELMET
+PELMET
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
++4" POP BOS LVL
+PoP BoB LvL
+{\LSECTION-AA'}
++3" POP PELMET FROM BOB LVL
++3" POP PELMET FROM BOB LVL
++4" POP BOS LVL
+ POP BOS LVL
+ POP BOB LVL
+ POP BOB LVL
+ POP BOB LVL
++3''PoP BoS LvL
++4''PoP BoS LvL
+\A1;+{\H0.7x;\S1/2;}"PoP BoC LvL
+\A1;+{\H0.7x;\S1/2;}"PoP BoC LvL
++4''PoP BoS LvL
+\A1;+{\H0.7x;\S1/2;}"PoP BoC LvL
++4''PoP BoS LvL
++4''PoP BoS LvL
+\A1;+{\H0.7x;\S1/2;}"PoP BoC LvL
++3''PoP BoS LvL
++3''PoP BoS LvL
++3''PoP BoS LvL
+A
+A
+{\fMistral|b0|i0|c0|p66;NOTE :}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REFLECTED IN DRAWINGS .\PMIGHT BE OCCUR DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -7'-6"}
+F.F.L TO B.O.S HEIGHT TO BE -8'-10"
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;INDIA}
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+DRAWN BY     -
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;FC}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\fMistral|b0|i0|c0|p66;STILT FLOOR- FALSE CEILING \fPerpetua Titling MT|b0|i0|c0|p18; }
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;21-08-2024}
+K-3/67A DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+ L-1,GROUND FLOOR SOUTH EX-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½ASROINDIA.ALL RIGHT'S RESERVED}
+{\C131;BOTTOM OF SLAB }
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+LEGENDS:-
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+{\C131;01.}
+{\C131;BOTTOM OF BEAM }
+{\C131;BOB}
+{\C131;glazer light}
+{\C131;08.}
+{\fMistral|b0|i0|c0|p66;KEY PLAN :}
+{\fArial|b0|i0|c0|p34;\H1.7143x;     FOR \PAPPROVAL \P     ONLY}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
++4''PoP BoS LvL
+\A1;+{\H0.7x;\S1/2;}"PoP BoC LvL
+\A1;+3"PoP BoS LvL
+PoP BoB LvL
++4''PoP BoS LvL
+\A1;+{\H0.7x;\S1/2;}"PoP BoC LvL
+\A1;+3"PoP BoS LvL
+\A1;{\LSECTION-AA'}
+PoP Bo Ex.\PPiPe LvL
+PoP Bo Ex.\PPiPe LvL
+PoP Bo Ex.\PPiPe LvL
+CHIMNEY PIPE
+PoP Bo KitChen Ex.\PPiPe LvL
+PENDENT LIGHT
+PELMET
+PELMET
+PoP BoB LvL
+PoP BoB LvL
++4"PoP BoS LvL
+TAPER CEILING
+TAPER CEILING
+PENDENT LIGHT
+\A1;{\H0.7x;\S3/4;}"x{\H0.7x;\S3/4;}" pop flutes \Pon edges
++3"PoP BoB LvL
++4"PoP BoS LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PELMET
+PELMET
++3"PoP BoS LvL
++5"PoP \PBoS LvL
++6"PoP \PBoS LvL
++4"PoP \PBoS LvL
+{\fMistral|b0|i0|c0|p66;NOTE :}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REFLECTED IN DRAWINGS .\PMIGHT BE OCCUR DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+F.F.L TO B.O.S HEIGHT TO BE -10'-10"
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;INDIA}
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+DRAWN BY     -
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;1}
+{\fMistral|b0|i0|c0|p66;FC}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\fMistral|b0|i0|c0|p66;FIRST FLOOR- FALSE CEILING \fPerpetua Titling MT|b0|i0|c0|p18; }
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;04-09-2024}
+K-3/67A DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+ L-1,GROUND FLOOR SOUTH EX-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½ASROINDIA.ALL RIGHT'S RESERVED}
+{\C131;BOTTOM OF SLAB }
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+LEGENDS:-
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+{\C131;01.}
+{\C131;BOTTOM OF BEAM }
+{\C131;BOB}
+{\C131;glazer light}
+{\C131;08.}
+{\fMistral|b0|i0|c0|p66;KEY PLAN :}
+{\fArial|b0|i0|c0|p34;\H1.7143x;     FOR \PAPPROVAL \P     ONLY}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\LREFERENCE IMAGE OF BEDROOM-01}
+CURVE PELMET 
++4"PoP BoS LvL
++4"PoP BoS LvL
+PoP BoB LvL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+{\LREFERENCE IMAGE OF BEDROOM-02}
+{\LREFERENCE IMAGE OF BEDROOM-03}
+{\LREFERENCE IMAGE OF BEDROOM-04}
+{\LREFERENCE IMAGE OF\P LIVING AND DINING}
+PoP BoB LvL
+\A1;Provision for\Pfan/hanging \Plight if needed
+\A1;SLIM PROFILE(surface mounted)
+CURVE PELMET 
+PoP BoB LvL
+PoP BoB LvL
+SLIM PROFILE(SURFACE MOUNTED)
+SLIM PROFILE(SURFACE MOUNTED)
+SLIM PROFILE(SURFACE MOUNTED)
+PoP BoB LvL
+PELMET
+CURVE PELMET 
++4"PoP BoS LvL
++4"PoP BoS LvL
+PoP BoB LvL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+WooDen Ceiling \PBo MacHine \PDuct LvL
+CURVE PELMET 
+PoP BoB LvL
+PoP BoB LvL
+SLIM PROFILE(SURFACE MOUNTED)
+SLIM PROFILE(SURFACE MOUNTED)
+SLIM PROFILE(SURFACE MOUNTED)
+PoP BoB LvL
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;5'\P-\P0"\P \PW\PI\PD\PE\P \PP\PA\PS\PS\PA\PG\PE}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;FORMAL DRAWIN & DINING \P18'-6\H0.7x;\S1/2;\H1.42857x;" x 24'-11\H0.7x;\S1/2;\H1.42857x;"}
+{\A1;8 SEATER}\P{\FCandara;\W1.07143; }{\A1;DINING }
+{\A1;TV UNIT}
+{\A1;B9(12"X15")}
+{\A1;B11(12"X15")}
+{\A1;B12(12"X15")}
+{\A1;B18(4.5"X15")}
+{\A1;B17(12"X15")}
+{\A1;B16(9"X15")}
+{\A1;B21(9"X15")}
+{\A1;B20(12"X15")}
+{\A1;B21(9"X15")}
+PoP Bo Ex.\PPiPe LvL
+PENDENT LIGHT
+PENDENT LIGHT
+\A1;{\H0.7x;\S3/4;}"x{\H0.7x;\S3/4;}" pop flutes \Pon edges
++3"PoP BoB LvL
+PoP BoB LvL
+PoP BoB LvL
+PELMET
++3"PoP BoS LvL
++5"PoP \PBoS LvL
++6"PoP \PBoS LvL
++4"PoP \PBoS LvL
+PoP BoB LvL
+\A1;{\fCandara|b0|i0|c0|p34;SHOWER\P AREA\P3'-0" X}4'-3{\H0.5x;\S1/2;}"
+{\FCandara;\W1.69048; }{\A1;WARDROBE}\P{\A1;6'-6" X 2'-0"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34; BEDROOM -04\P13'-3" x 10'-6"}
+{\A1;TV UNIT}
+{\FCandara;\W1.71429; }{\A1;WARDROBE}\P{\A1;7'-0" X 2'-0"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;TOILET -03\P8'-5\H0.7x;\S1/2;\H1.42857x;" x 6'-0"}
+{\FCalibri;\W2.13809; }{\A1;SHOWER}\P{\FCalibri;\W2.09047; }{\A1;CUBICLE}\P{\A1;3'-4{\A1;\H0.70000x;\S1/2;}}{\A1;\H1.00000x;"x5'-3{\A1;\H0.70000x;\S1/2;}}{\A1;\H1.00000x;"}
+{\A1;SITTING LEDGE}
+{\A1;TV UNIT}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;COMM.TOILET -04\P9'-6" x 5'-0"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;BED ROOM -03\P16'-4\H1x;" x 12'-8"}
+{\FArial;\W1.04762; }{\A1;9" }{\FArial;\W1.04762; }{\A1;SUNK}
+{\FArial;\W1.04762; }{\A1;9" }{\FArial;\W1.04762; }{\A1;SUNK}
+{\A1;B7(9"X15")}
+{\A1;B9(12"X15")}
+{\A1;B11(12"X15")}
+{\A1;B12(12"X15")}
+{\A1;B13(9"X15")}
+{\A1;B16(9"X15")}
+{\A1;B20(12"X15")}
+{\A1;B7A(9"X15")}
+{\FArial;\W1.04762; }{\A1;9" }{\FArial;\W1.04762; }{\A1;SUNK}
+{\A1;B21(9"X15")}
+PoP Bo Ex.\PPiPe LvL
+PELMET
++4"PoP BoS LvL
+PoP BoB LvL
+PoP BoB LvL
+\A1;SLIM PROFILE(surface mounted)
+{\FCandara;\W1.69048; }{\A1;WARDROBE}\P{\A1;6'-6" X 2'-0"}
+\A1;{\fCandara|b0|i0|c0|p34;SHOWER\P AREA\P}3'-4{\H0.7x;\S1/2;}"{\fCandara|b0|i0|c0|p34; X 5'-5\H0.7x;\S1/2;\H1.42857x;"}
+\A1;{\fCandara|b0|i0|c0|p34;SEATING LEDGE}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;MASTER BEDROOM -01\P}17'-2{\H0.5x;\S1/2;}"{\fTrebuchet MS|b0|i0|c0|p34; x 12'-6"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;TOILET -01\P10'-0" x 6'-2"}
+{\A1;TV UNIT}
+{\A1;WARDROBE}
+{\FArial;\W1.04762; }{\A1;9" }{\FArial;\W1.04762; }{\A1;SUNK}
+{\A1;B1(9"X15")}
+{\A1;B3(9"X15")}
+{\A1;B4(9"X15")}
+{\A1;B14(9"X15")}
+{\A1;B19(12"X15")}
+PoP Bo Ex.\PPiPe LvL
+PELMET
+PoP BoB LvL
+PoP BoB LvL
++4"PoP BoS LvL
+TAPER CEILING
+TAPER CEILING
+\A1;Provision for\Pfan/hanging \Plight if needed
+{\FCandara;\W1.71429; }{\A1;WARDROBE}\P{\A1;5'-6" X 2'-0"}
+\A1;{\fCandara|b0|i0|c0|p34;SHOWER\P AREA\P3'-2\H0.7x;\S1/2;\H1.42857x;" X 4'-10"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34; BEDROOM -02\P17'-3\H0.7x;\S1/2;\H1.4286x;" x 11'-0"}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;TOILET -02\P13'-2\H1x;" x 5'-6\H0.7x;\S1/2;\H1.4286x;"}
+{\A1;TV UNIT}
+{\A1;SITTING }\P{\FCandara;\W0.14286; }{\A1;LEDGE}
+{\A1;B5(12"X15")}
+{\A1;B2(12"X15")}
+{\A1;B21B(9"X15")}
+{\FArial;\W1.04762; }{\A1;9" }{\FArial;\W1.04762; }{\A1;SUNK}
+CHIMNEY PIPE
+PoP Bo KitChen Ex.\PPiPe LvL
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;KITCHEN\P16'-4" x 8'-9"}
+{\FArial;\W1.04762; }{\A1;9" }{\FArial;\W1.04762; }{\A1;SUNK}
+{\A1;B8(9"X15")}
+{\A1;B10(9"X15")}
+PELMET
+{\FCandara;\W1.69048; }{\A1;WARDROBE}\P{\A1;6'-6" X 2'-0"}
+\A1;{\fCandara|b0|i0|c0|p34;SHOWER\P AREA\P}3'-4{\H0.7x;\S1/2;}"{\fCandara|b0|i0|c0|p34; X 5'-5\H0.7x;\S1/2;\H1.42857x;"}
+\A1;{\fCandara|b0|i0|c0|p34;SEATING LEDGE}
+{\A1;TV UNIT}
+{\A1;WARDROBE}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+06x06mm\Pu-groove
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W6.70125;  }FIRST FLOOR,  BEDROOM&TOILET-01\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;06-09-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+\A1;BEDROOM-01
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+PELMET
+{\FCandara;\W1.71429; }{\A1;WARDROBE}\P{\A1;5'-6" X 2'-0"}
+\A1;{\fCandara|b0|i0|c0|p34;SHOWER\P AREA\P3'-2\H0.7x;\S1/2;\H1.42857x;" X 4'-10"}
+{\A1;TV UNIT}
+{\A1;SITTING }\P{\FCandara;\W0.14286; }{\A1;LEDGE}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
++4"PoP BoS LvL
+PELMET
+{\A1;TV UNIT}
+{\FCalibri;\W2.13809; }{\A1;SHOWER}\P{\FCalibri;\W2.09047; }{\A1;CUBICLE}\P{\A1;3'-4{\A1;\H0.70000x;\S1/2;}}{\A1;\H1.00000x;"x5'-3{\A1;\H0.70000x;\S1/2;}}{\A1;\H1.00000x;"}
+{\A1;SITTING LEDGE}
+PENDENT LIGHT
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
++4"PoP BoS LvL
++3"PoP BoS LvL
++5"PoP BoS LvL
++6"PoP BoS LvL
+PoP BoB LvL
+\A1;{\LSECTION-AA'}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT/CHANDELIER\PIS GIVEN .
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W6.62982;  }FIRST FLOOR,  BEDROOM&TOILET-03\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;06-09-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+\A1;BEDROOM-03
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+\A1;{\fCandara|b0|i0|c0|p34;SHOWER\P AREA\P3'-0" X}4'-3{\H0.5x;\S1/2;}"
+{\FCandara;\W1.69048; }{\A1;WARDROBE}\P{\A1;6'-6" X 2'-0"}
+{\A1;TV UNIT}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W6.61792;  }FIRST FLOOR,  BEDROOM&TOILET-04\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;06-09-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+\A1;BEDROOM-04
+WARDROBE
++3"PoP BoB LvL
+\A1;{\H0.7x;\S3/4;}"x{\H0.7x;\S3/4;}" Pop Flutes \Pon Edges
+PoP BoB LvL
+\A1;{\LSECTION-AA'}
+\A1;ADD PLY IN FRAMING \PWHEREVER PROVISION OF \PPENDANT LIGHT/CHANDELIER\PIS GIVEN .
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W9.15363;  }FIRST FLOOR,  KITCHEN\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;06-09-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+\A1;KITCHEN
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+\A1;{\fTrebuchet MS|b0|i0|c0|p34;5'\P-\P0"\P \PW\PI\PD\PE\P \PP\PA\PS\PS\PA\PG\PE}
+{\A1;8 SEATER}\P{\FCandara;\W1.07143; }{\A1;DINING }
+{\A1;TV UNIT}
+PELMET
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;A}
+{\f@Arial Unicode MS|b0|i0|c0|p34;B}
+{\f@Arial Unicode MS|b0|i0|c0|p34;B}
+{\f@Arial Unicode MS|b0|i0|c0|p34;C}
+{\f@Arial Unicode MS|b0|i0|c0|p34;C}
+DUCT
+Wooden Bo Duct MacHine LvL
+{\LSECTION-BB'}
+PoP BoB LvL
++4"PoP BoS LvL
+\A1;Curve Latak \P1"Pelmet
+DUCT
+DUCT
+12mm Water-proof\Pply screwed \Pfor pelmet
+Wooden Bo Duct MacHine LvL
+PoP BoB LvL
+Wooden Bo Duct MacHine LvL
+{\LSECTION-CC'}
+\A1;{\LWOODEN CEILING}
+DRAWN BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\FMistral;\W6.52268;  }FIRST FLOOR,  LIVING&DINING-LOBBY\P{\FMistral;\W6.42744;  }FALSE CEILING & CEILING ELECTRICAL       
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+DATE  -
+{\fMistral|b0|i0|c0|p66;06-09-2024}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;INDIA}
+K-3/67 A, DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½}{\H1.08333x;ASROINDIA.ALL RIGHT'S RESERVED}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;NOTE :}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;KEY PLAN }
+{\fISOCPEUR|b0|i0|c0|p34;Legends:-}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;01.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;02.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;03.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;04.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Suspended Light}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Halogen}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Fan Point}
+{\C131;Button Spot Light}
+{\C131;05.}
+{\C131;down light}
+{\C131;pendant light}
+{\C131;06.}
+{\C131;07.}
+{\fISOCPEUR|b0|i0|c0|p34;\C131;Switch Board}
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;............}
+ L-1,  SOUTH EXTENSION-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\C131;BOTTOM OF BEAM }
+{\C131;BOTTOM OF SLAB }
+{\C131;BOB}
+{\C131;BOS}
+{\C131;BOMH}
+{\C131;BOTTOM OF MAN HOLE }
+{\C131;BOEX}
+{\C131;BOTTOM OF EXHAUST PIPE}
+{\C131;BOC}
+{\C131;BOTTOM OF CEILING}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -8'-6"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-10"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;F.C}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66; E}
+{\fMistral|b0|i0|c0|p66; SW}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66; SE}
+{\fMistral|b0|i0|c0|p66;NW}
+\A1;DND-LOBBY
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, DELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+PoP BoB LvL
+{\H1.333333x;SLIM PROFILE}(surface mounted)
++4"PoP BoS LvL
+PoP BoB LvL
+{\H1.333333x;SLIM PROFILE}(surface mounted)
++4"PoP BoS LvL
+\A1;{\LSECTION-AA'}
+\A1;Curve Latak \P1"Pelmet
+\A1;Curve Latak \P1"Pelmet
+12mm Water-proof\Pply screwed \Pfor pelmet
+\A1; +4"PoP BoS  LvL .
+\A1; +3"PoP BoB  LvL .
+{\A1;\H0.70000x;\S3/4;}{\A1;"X{\A1;\H0.70000x;\S3/4;}" WOODEN }{\A1;RAFTERS ON}\P{\A1; EDGES}
+\A1; +3"PoP BoB  LvL .
+\A1; +3"PoP BoB  LvL .
+\A1; +3"PoP BoB  LvL .
+\A1; +4"PoP BoS  LvL .
+{\A1;\H0.70000x;\S3/4;}{\A1;"X{\A1;\H0.70000x;\S3/4;}" WOODEN }{\A1;RAFTERS ON}\P{\A1; EDGES}
+\A1; +6"PoP BoS  LvL .
+\A1; +6"PoP BoS  LvL .
+\A1; +6"PoP BoS  LvL .
+\A1;BOXING BO PIPE LVL
+\A1;BOXING BO PIPE LVL
+\A1;BOXING BO PIPE LVL
+\A1;PoP BoB LvL
+\A1;PoP BoB LvL
+\A1;PoP BoB LvL
+\A1;PoP BoB LvL
+\A1;PoP BoB LvL
+\A1;PoP BoB LvL
+K-3/67A DLF-2 BASEMENT, GURGAON                        \P+91-124-4000880,  +91 -9911704805                                                          
+{\fMistral|b0|i0|c0|p66;EMAIL - TEAM@ASROINDIA.IN}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;PRINCIPAL ARCHITECT- AR.ROBIN SISODIYA}
+{\fMistral|b0|i0|c0|p66;INDIA}
+{\fMistral|b0|i0|c0|p66;ARCHITECTURE,INTERIORS PLANNING}
+DRAWN BY     -
+CHECKED BY  -
+{\fMistral|b0|i0|c0|p66;REVISION}
+{\fMistral|b0|i0|c0|p66;0}
+{\fMistral|b0|i0|c0|p66;FC}
+{\fMistral|b0|i0|c0|p66;DWG.NO}
+{\fMistral|b0|i0|c0|p66;BASEMENT FLOOR- FALSE CEILING}
+DATE  -
+{\fMistral|b0|i0|c0|p66;16-09-2024}
+L-1,GROUND FLOOR SOUTHEX-2, DELHI  \P +91-1141600880, +91-9911704805           
+{\fMistral|b0|i0|c0|p66;DIRECTION}
+{\fMistral|b0|i0|c0|p66;CLIENT -   }
+{\fMistral|b0|i0|c0|p66;PROJECT -   }
+{\fMistral|b0|i0|c0|p66;RESIDENCE}
+{\fMistral|b0|i0|c0|p66;ADDRESS -   }
+{\fMistral|b0|i0|c0|p66;RECEIVED BY}
+{\fMistral|b0|i0|c0|p66;\H1.08333x;SCALE- N.T.S}
+{\H1.08333x;ï¿½ASROINDIA.ALL RIGHT'S RESERVED}
+{\fMistral|b0|i0|c0|p66;NOTE :}
+DRAWING AND DIMENSIONS ARE ONLY\PTO BE READ AND NOT SCALED.\PUNLESS OTHERWISE MENTIONED
+IN CASE OF ANY CHANGES \PTHAT ARE NOT REELECTED IN DRAWINGS .\PMIGHT BE OUCCER DUE TO ON SITE CONDITION.
+{\fTw Cen MT Condensed|b0|i0|c0|p34;STANDARD LINTEL HEIGHT TO BE -9'-0"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;F.F.L TO B.O.S HEIGHT TO BE -10'-9"}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;1.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;2.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;3.}
+{\fTw Cen MT Condensed|b0|i0|c0|p34;4.}
+{\fMistral|b0|i0|c0|p66;KEY PLAN:-}
+{\fMistral|b0|i0|c0|p66;E}
+{\fMistral|b0|i0|c0|p66;N}
+{\fMistral|b0|i0|c0|p66;SE}
+{\fMistral|b0|i0|c0|p66;NE}
+{\fMistral|b0|i0|c0|p66;W}
+{\fMistral|b0|i0|c0|p66;SW}
+{\fMistral|b0|i0|c0|p66;NW}
+{\fMistral|b0|i0|c0|p66;S}
+{\fMistral|b0|i0|c0|p66;B-29, PANCHSHEEL ENCLAVE, \PDELHI}
+{\fMistral|b0|i0|c0|p66;MR. MOHAN BHUSHAN}
+{\fMistral|b0|i0|c0|p66;MANPREET KAUR}
+A
+A
+{\A1;\H0.70000x;\S3/4;}{\A1;"X{\A1;\H0.70000x;\S3/4;}" WOODEN }{\A1;RAFTERS ON}\P{\A1; EDGES}
+\A1; +6"PoP BoS  LvL .
+\A1; +4"PoP BoS  LvL .
+\A1;BOXING BO PIPE LVL
+\A1;BOXING BO PIPE LVL
+\A1; +3"PoP BoB  LvL .
