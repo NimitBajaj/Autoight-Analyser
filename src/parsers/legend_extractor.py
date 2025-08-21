@@ -2,104 +2,111 @@ from __future__ import annotations
 import re
 from typing import List
 
+# --- regexes to strip AutoCAD formatting ---
 FORMAT_BRACE_RE = re.compile(r"\{[^{}]*\}")               # strip {...} formatting chunks
 ESCAPE_TAG_RE   = re.compile(r"\\[A-Za-z0-9\.]+;?")       # \P \H0.7x; \C131; \A1; etc.
 MULTI_SPACE_RE  = re.compile(r"\s+")
 BULLET_RE       = re.compile(r"^\s*(\d{1,2}\.)\s*")       # 01. / 1. numbering
 
+# --- filters ---
+SKIP_PATTERNS = re.compile(
+    r"\d{3,}|"                # phone numbers, long digit sequences
+    r"NOTE|DRAWN BY|CHECKED BY|DATE|SCALE|" 
+    r"GROUND FLOOR|FIRST FLOOR|TYPICAL FLOOR|BASEMENT|DLF|SOUTH EX",
+    re.I,
+)
+FIXTURE_KEYWORDS = {
+    "LIGHT", "FAN", "PELMET", "COVE", "PIPE", "SOCKET", "SWITCH", "DUCT", "CHIMNEY"
+}
+
 LEGEND_ANCHORS  = (
     "LEGENDS:-", "LEGENDS:", "LEGEND:-", "LEGEND:",  # common variants
 )
 
-STOP_WORDS = (
-    "NOTE", "DRAWN BY", "CHECKED BY", "TYPICAL FLOOR",
-    "FIRST FLOOR", "STILT FLOOR", "KEY PLAN", "STANDARD"
-)
+# -------------------------------------------------------------------
 
 def _strip_acad_formatting(text: str) -> str:
     """Remove AutoCAD MText formatting noise."""
-    # remove braced runs like {\fFont;...} or {\A1;...}
     text = FORMAT_BRACE_RE.sub(" ", text)
-    # remove escape tags like \P (paragraph), \H, \C, \W, etc.
     text = ESCAPE_TAG_RE.sub(" ", text)
-    # convert explicit \P that may still linger without ; to a line break
     text = text.replace("\\P", "\n")
-    # collapse whitespace
     text = MULTI_SPACE_RE.sub(" ", text)
-    # normalize hyphens
     text = text.replace("–", "-").replace("—", "-")
     return text.strip()
 
 def _extract_legend_chunk(clean: str) -> str | None:
-    """Extract lines between LEGEND(S) anchor and the next stop marker."""
-    lines = clean.splitlines()
-    chunk_lines: list[str] = []
-    capturing = False
-    for line in lines:
-        uline = line.strip().upper()
-        if not capturing and any(a in uline for a in LEGEND_ANCHORS):
-            capturing = True
-            continue
-        if capturing:
-            if any(uline.startswith(sw) for sw in STOP_WORDS):
-                break
-            chunk_lines.append(line)
-    return "\n".join(chunk_lines) if chunk_lines else None
+    """Pull the shortest chunk that looks like the legend block after an anchor."""
+    idx = min((clean.upper().find(a) for a in LEGEND_ANCHORS if a in clean.upper()), default=-1)
+    if idx == -1:
+        return None
+    tail = clean[idx:]
+    stops = ["NOTE :", "DRAWN BY", "CHECKED BY", "TYPICAL FLOOR", "FIRST FLOOR", "STILT FLOOR", "KEY PLAN"]
+    stop_positions = [tail.upper().find(s) for s in stops if s in tail.upper()]
+    stop_positions = [p for p in stop_positions if p >= 0]
+    end = min(stop_positions) if stop_positions else len(tail)
+    return tail[:end]
+
+REJECT_KEYWORDS = [
+    "date", "drawn", "checked", "scale", "client", "project", "address", "plan",
+    "north", "south", "east", "west", "key", "legend", "revision", "dwg", "floor",
+    "false ceiling", "typical", "provision", "framing", "kitchen", "pdr", "toilet",
+    "bedroom", "lobby", "living", "scale", "ceiling electrical"
+]
+
+# Accept only if these hints are present
+KEEP_HINTS = [
+    "light", "pelmet", "pipe", "duct", "grill", "mirror",
+    "profile", "machine", "fan", "switch", "chandelier"
+]
+
 
 def parse_legend_terms(raw_text: str) -> List[str]:
-    """
-    Return a deduplicated, clean list of legend items (e.g., ["Suspended Light", "Halogen", ...]).
-    """
-    clean = _strip_acad_formatting(raw_text)
-    chunk = _extract_legend_chunk(clean) or clean  # fallback
-
+    lines = raw_text.splitlines()
     candidates: List[str] = []
-    for part in re.split(r"[\n|,]+", chunk):
-        part = BULLET_RE.sub("", part)   # drop "01." etc.
-        token = part.strip(" :;-").strip()
-        if not token:
-            continue
-            # Heuristics: discard known non-legend text
-        STOPWORDS = {
-            "LEGENDS", "LEGEND", "SWITCH",
-            "GROUND FLOOR", "FIRST FLOOR", "TYPICAL FLOOR",
-            "DLF-2", "DELHI", "GURGAON", "CHECKED BY", "DRAWN BY"
-        }
-        if token.upper() in STOPWORDS:
+
+    for line in lines:
+        token = re.sub(r"{.*?}", " ", line)  # strip CAD formatting
+        token = re.sub(r"\\[A-Za-z0-9]+", " ", token)  # strip escape codes
+        token = token.strip()
+
+        if not token or token.startswith(";"):  # skip empty or CAD comment
             continue
 
-        # Ignore phone numbers or numbers with +
-        if re.search(r"\+?\d{3,}", token):
+        # skip too long lines (likely descriptive notes)
+        if len(token.split()) > 6:
             continue
 
-        # Prefer labels in ALL CAPS (common in legends)
-        if token.upper() != token:
+        # reject boilerplate words
+        if any(kw in token.lower() for kw in REJECT_KEYWORDS):
             continue
 
-        # Require at least two words (e.g., "PENDENT LIGHT", not "DLF-2")
-        if len(token.split()) < 2:
+        # only keep if it has one of our hints
+        if not any(h in token.lower() for h in KEEP_HINTS):
             continue
 
-        # Short, meaningful phrases only
-        if 3 <= len(token) <= 40 and any(c.isalpha() for c in token):
-            candidates.append(token)
+        # normalize
+        token = " ".join(w.capitalize() for w in token.split())
 
-    # Normalize capitalization and dedupe while preserving order
+        candidates.append(token)
+
+    # dedupe while preserving order
     seen = set()
-    out: List[str] = []
-    for t in candidates:
-        norm = re.sub(r"\s+", " ", t).strip()
-        norm = norm[:1].upper() + norm[1:]
-        if norm.lower() not in seen:
-            seen.add(norm.lower())
-            out.append(norm)
-    return out
+    result = []
+    for c in candidates:
+        if c not in seen:
+            seen.add(c)
+            result.append(c)
+
+    return result
+# -------------------------------------------------------------------
 
 if __name__ == "__main__":
     import sys, json
     text = sys.stdin.read()
-    print("---- LEGEND CHUNK ----")
-    print(_extract_legend_chunk(_strip_acad_formatting(text)))
-    print("---- PARSED ITEMS ----")
-    print(json.dumps(parse_legend_terms(text), indent=2, ensure_ascii=False))
+    items = parse_legend_terms(text)
+    print("---- PARSED LEGEND ITEMS ----")
+    for it in items:
+        print(" •", it)
+    print(json.dumps(items, indent=2, ensure_ascii=False))
+
 
