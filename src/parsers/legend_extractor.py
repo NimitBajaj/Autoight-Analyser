@@ -53,35 +53,25 @@ def parse_legend_terms(raw_text: str) -> List[str]:
     clean = _strip_acad_formatting(raw_text)
     chunk = _extract_legend_chunk(clean) or clean  # fallback
 
+    FIXTURE_KEYWORDS = {"LIGHT", "FAN", "SWITCH", "SOCKET", "PIPE", "LAMP", "FIXTURE", "COVE", "PELMET"}
+    BLACKLIST = {"FLOOR", "BASEMENT", "DLF", "EXTENSION", "NORTH", "SOUTH", "EAST", "WEST", "CHECKED", "BY"}
+
     candidates: List[str] = []
     for part in re.split(r"[\n|,]+", chunk):
-        part = BULLET_RE.sub("", part)   # drop "01." etc.
+        part = BULLET_RE.sub("", part)
         token = part.strip(" :;-").strip()
         if not token:
             continue
-            # Heuristics: discard known non-legend text
-        STOPWORDS = {
-            "LEGENDS", "LEGEND", "SWITCH",
-            "GROUND FLOOR", "FIRST FLOOR", "TYPICAL FLOOR",
-            "DLF-2", "DELHI", "GURGAON", "CHECKED BY", "DRAWN BY"
-        }
-        if token.upper() in STOPWORDS:
+
+        # Uppercased for keyword matching
+        up = token.upper()
+
+        # Reject location/floor labels
+        if any(bad in up for bad in BLACKLIST):
             continue
 
-        # Ignore phone numbers or numbers with +
-        if re.search(r"\+?\d{3,}", token):
-            continue
-
-        # Prefer labels in ALL CAPS (common in legends)
-        if token.upper() != token:
-            continue
-
-        # Require at least two words (e.g., "PENDENT LIGHT", not "DLF-2")
-        if len(token.split()) < 2:
-            continue
-
-        # Short, meaningful phrases only
-        if 3 <= len(token) <= 40 and any(c.isalpha() for c in token):
+        # Accept if it contains fixture keywords
+        if any(word in up for word in FIXTURE_KEYWORDS):
             candidates.append(token)
 
     # Normalize capitalization and dedupe while preserving order
@@ -94,6 +84,7 @@ def parse_legend_terms(raw_text: str) -> List[str]:
             seen.add(norm.lower())
             out.append(norm)
     return out
+
 
 if __name__ == "__main__":
     import sys, json
