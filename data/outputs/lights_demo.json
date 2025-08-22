@@ -1,0 +1,31 @@
+{
+  "legend": [
+    "MAGNETIC TRACK LIGHT",
+    "L-GROOVE EDGES",
+    "CHIMNEY PIPE",
+    "PENDENT LIGHT",
+    "COVE LIGHT",
+    "L-Groove on EdgeS",
+    "12mm Water-proof screwed pelmet",
+    "AC MACHINE",
+    "TAPER CEILING",
+    "CURVE PELMET",
+    "SLIM PROFILE(surface mounted)",
+    "06x06mm -groove",
+    "(surface mounted)"
+  ],
+  "lights": {
+    "Magnetic Track Light": {
+      "count": 9,
+      "category": "Track"
+    },
+    "Pendant Light": {
+      "count": 16,
+      "category": "Hanging"
+    },
+    "Cove Light": {
+      "count": 2,
+      "category": "Indirect"
+    }
+  }
+}

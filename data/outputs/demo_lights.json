@@ -1,0 +1,14 @@
+{
+  "Magnetic Track Light": {
+    "count": 9,
+    "category": "Track"
+  },
+  "Pendant Light": {
+    "count": 16,
+    "category": "Hanging"
+  },
+  "Cove Light": {
+    "count": 2,
+    "category": "Indirect"
+  }
+}

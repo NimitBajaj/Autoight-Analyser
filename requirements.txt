@@ -1,3 +1,4 @@
 ezdxf
 pdfplumber
 fpdf2
+rapidfuzz

@@ -1,3 +1,13 @@
+"""
+DEPRECATED MODULE
+
+This module has been replaced by the new text-based legend extractor
+(see `extract_legend.py`), which now handles light detection and counting
+more robustly.
+
+Keeping this file only for reference — will be removed in a later version.
+"""
+
 import json
 import sys
 from pathlib import Path
