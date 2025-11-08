@@ -1,0 +1,61 @@
+{
+  "legend": [
+    "Suspended Light",
+    "Cove Light",
+    "Halogen",
+    "Fan Point",
+    "Button Spot Light",
+    "Down Light",
+    "Pendant Light",
+    "Switch Board",
+    "Bottom Of Beam",
+    "Bob",
+    "Glazer Light"
+  ],
+  "lights": {
+    "Suspended Light": {
+      "count": 46,
+      "category": null
+    },
+    "Cove Light": {
+      "count": 2,
+      "category": null
+    },
+    "Halogen": {
+      "count": 15,
+      "category": null
+    },
+    "Fan Point": {
+      "count": 15,
+      "category": null
+    },
+    "Button Spot Light": {
+      "count": 15,
+      "category": null
+    },
+    "Down Light": {
+      "count": 15,
+      "category": null
+    },
+    "Pendant Light": {
+      "count": 24,
+      "category": null
+    },
+    "Switch Board": {
+      "count": 15,
+      "category": null
+    },
+    "Bottom Of Beam": {
+      "count": 15,
+      "category": null
+    },
+    "Bob": {
+      "count": 94,
+      "category": null
+    },
+    "Glazer Light": {
+      "count": 3,
+      "category": null
+    }
+  }
+}
