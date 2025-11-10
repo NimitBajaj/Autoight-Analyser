@@ -100,6 +100,7 @@ def parse_legend_terms(raw_text: str) -> List[str]:
     return result
 # -------------------------------------------------------------------
 
+
 if __name__ == "__main__":
     import sys, json
     text = sys.stdin.read()
